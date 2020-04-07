@@ -15,4 +15,4 @@ async def amireallyalive(alive):
                      "`Telethon version: 6.9.0\nPython: 3.7.3\nfork by:` @catch_me_ifu_can\n"
                      "`Bot created by:` [GamegodAnubis](tg://user?id=1062839244)\n"
                      "`Database Status: Databases functioning normally!\n\nAlways with you, my master!\n`"
-                     f"`My peru owner`: {DEFAULTUSER}\n")
+                     "`My peru owner`: {DEFAULTUSER}\n")
