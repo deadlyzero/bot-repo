@@ -20,7 +20,6 @@ async def _(event):
     if event.fwd_from:
 
         return
-y
     animation_interval = 2
 
     animation_ttl = range(0, 11)
