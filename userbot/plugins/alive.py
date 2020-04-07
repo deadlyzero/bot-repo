@@ -16,4 +16,3 @@ async def amireallyalive(alive):
                      "`Bot created by:` [GamegodAnubis](tg://user?id=1062839244)\n"
                      "`Database Status: Databases functioning normally!\n\nAlways with you, my master!\n`"
                      f"`My peru owner`: {DEFAULTUSER}\n"
-                    
