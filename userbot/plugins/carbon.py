@@ -118,8 +118,6 @@ async def carbon_api(e):
 
    driver.get(url)
 
-   await e.edit("`Be Patient...\n50%`")
-
    download_path = './'
 
    driver.command_executor._commands["send_command"] = ("POST", '/session/$sessionId/chromium/send_command')
